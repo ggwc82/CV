@@ -1,11 +1,11 @@
 ## Godfrey Got-Wai Chiu
-[GitHub](https://github.com/ggwc82) | [E-mail](gotwai@gmail.com) | [Mobile](07939976723)
+**[GitHub](https://github.com/ggwc82) | [E-mail](gotwai@gmail.com) | [Mobile](07939976723)**
 
 'A white belt wearing junior software developer whose love for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to the Software Craftsmanship manifesto, as well as all things related to Agile and Extreme programming. I was fortunate to be selected to video blog my coding journey which you can view at [Ronin by Makers Academy - Youtube](http://bit.ly/1qKGkCf).
 
 ## Skills
 
-#### Web Development (2015 - present)
+**Web Development** (2015 - present)
 
 Having just graduated from Europe's top coding bootcamp, I believe I'm ready for the next stage of my journey, to apply my newly gained skills in a healthy and productive work environment. Below are just a handful of the many awesome projects I've been working on during my time as a Ronin student at [Makers Academy](http://bit.ly/1Mq87S1):
 
@@ -17,7 +17,7 @@ Having just graduated from Europe's top coding bootcamp, I believe I'm ready for
   
 <br><br>
 
-#### Online Poker - Cash Games Specialist (2009 - 2015)
+**Online Poker - Cash Games Specialist** (2009 - 2015)
 
 Preferring to fly under the radar, I forged a lucrative career by playing up to 24 tables simultaneously at the mid-stakes cash games on PokerStars.com. My success is due to an intense work ethic and continously reviewing and improving my strategy through analysis of opponents, focusing on maximizing expectation in the most frequent scenarios.
 
@@ -52,7 +52,7 @@ Previous roles on the CSC graduate scheme include Server Administrator for Depar
 
 ## Education
 
-#### Makers Academy - Ronin (Dec 2015 - Apr 2016)
+**Makers Academy - Ronin** (Dec 2015 - Apr 2016)
 
 - Object-Orientated Programming, Model-View-Controller, Test Driven Development, SOLID Principles
 - Software Craftsmanship and Extreme Programming
@@ -60,7 +60,7 @@ Previous roles on the CSC graduate scheme include Server Administrator for Depar
 - Technologies: Ruby, Sinatra, Rails, JavaScript, jQuery, AngularJS, Git/GitHub
 - Testing Packages: RSpec, Jasmine, Karma, Protractor
 
-#### Imperial College London (Oct 2000 - June 2004)
+**Imperial College London** (Oct 2000 - June 2004)
 
 - MSci Physics - 2:1 with Honours
 - Final Year Project: 'The Structure, Origin and Evolution of Solar Wind Interaction Regions During Solar Maximum', utilising MATLAB as the primary data analysis tool
@@ -68,7 +68,7 @@ Previous roles on the CSC graduate scheme include Server Administrator for Depar
 - Undergraduate award for academic performance (2000)
 - Webmaster for 'AstroSoc' Astronomy Society (2001-2002)
 
-#### Bolton School Boys' Division (Sept 1998 - June 2000)
+**Bolton School Boys' Division** (Sept 1998 - June 2000)
 
 - A-Levels: Mathematics (grade A), Physics (grade A), Chemistry (grade A), General Studies (grade A)
 - Bursary-assisted place for sixth-form studies (1998-2000)
