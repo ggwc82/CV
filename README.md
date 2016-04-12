@@ -9,7 +9,7 @@
 
 Having just graduated from Europe's top coding bootcamp, I believe I'm ready for the next stage of my journey, to apply my newly gained skills in a healthy and productive work environment. Below are just a handful of the many awesome projects I've been working on during my time as a Ronin student at [Makers Academy](http://bit.ly/1Mq87S1):
 
-|Live Demo: | GitHub Repo: | Description: | Technology Stack: | Major Contributions: |
+|Live Demo: | GitHub Repo: | Description: | Technology Stack: | Main Contributions: |
 |---|---|---|---|---|
 |[Roadtripper](http://bit.ly/1S1vPB3)|[Roadtripper on GitHub](http://bit.ly/1StXBW5) | Final project - A responsive web application for users to share their road trip experiences | Rails, JavaScript, jQuery, BootStrap, GoogleMaps API, AWS, RSpec, Capybara | Rails MVC configuration, implementation and writing RSpec feature tests  
 |[GitHub Viewer](http://bit.ly/1TNano4)|[GitHub Viewer on GitHub](http://bit.ly/1Q3oTkK) | User profile search tool built with AngularJS utilising GitHub API | AngularJS, GitHub API, Protractor, Karma, Sinatra, CSS | Contributions across the complete stack
@@ -26,7 +26,7 @@ Preferring to fly under the radar, I forged a lucrative career by playing up to 
 ## Experience
 
 **Computer Sciences Corporation, CSC** (May 2006 - May 2008)    
-*Technical Service Manager*
+*Technical Service Manager - e-Hub JP Morgan Chase*
 
 Technical Service Manager for a Tier One Investment Bank, handling Equities, Fixed Income, Derivatives and lower order business. Responsible for the day to day running of operations and reporting of these businesses to local and global management.
 
@@ -37,13 +37,14 @@ Technical Service Manager for a Tier One Investment Bank, handling Equities, Fix
 **Computer Sciences Corporation, CSC** (Sept 2004 - May 2006)   
 *Infrastructure Server Engineer/Technical Project Lead*
 
-Infrastructure Server Engineer for a leading asset management firm. Providing 3rd line support for Windows and Citrix server environments, including mission critical systems and financial applications.
+Infrastructure Server Engineer for Schroders Global Asset Management. Providing 3rd line support for Windows and Citrix server environments, including mission critical systems and financial applications.
 
+- Resolving break/fix problem tickets working directly with both the customer and internal support/development teams
 - Active participation in disaster recovery testing, server refresh projects, batch scripting and deployment of monitoring software. 
 - Remote Blackberry support for all employees, including VIP level. 
 - Team representative for ITIL problem and change management issues.
 
-Previous roles on the graduate scheme include Server Administrator for a government department and Technical Project Lead for several FTSE 100 companies.
+Previous roles on the CSC graduate scheme include Server Administrator for Department of Health and Technical Project Lead for Royal Mail Group, National Grid Transco and Bombardier Transportation.
 
 ## Education
 
