@@ -15,7 +15,7 @@ Having just graduated from Europe's top coding bootcamp, I believe I'm ready for
 |[GitHub Viewer](http://bit.ly/1TNano4)|[GitHub Viewer on GitHub](http://bit.ly/1Q3oTkK) | User profile search tool built with AngularJS utilising GitHub API | AngularJS, GitHub API, Protractor, Karma, Sinatra, CSS | Contributions across the complete stack
 |[Rock, Paper, Scissors](http://bit.ly/23pzDqk)|[RPS on GitHub](http://bit.ly/1Wo1AcN) | Traditional or extended rules (Spock, Lizard) with multiplayer options | Ruby, Sinatra, RSpec, Capybara | Personal project
   
-  
+<br><br>
 
 #### Online Poker - Cash Games Specialist (2009 - 2015)
 
@@ -48,8 +48,8 @@ Infrastructure Server Engineer for Schroders Global Asset Management. Providing 
 
 Previous roles on the CSC graduate scheme include Server Administrator for Department of Health and Technical Project Lead for Royal Mail Group, National Grid Transco and Bombardier Transportation.
   
-  
-    
+<br><br>
+
 ## Education
 
 #### Makers Academy - Ronin (Dec 2015 - Apr 2016)
