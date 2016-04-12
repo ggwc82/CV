@@ -14,6 +14,8 @@ Having just graduated from Europe's top coding bootcamp, I believe I'm ready for
 |[Roadtripper](http://bit.ly/1S1vPB3)|[Roadtripper on GitHub](http://bit.ly/1StXBW5) | Final project - A responsive web application for users to share their road trip experiences | Rails, JavaScript, jQuery, BootStrap, GoogleMaps API, AWS, RSpec, Capybara | Rails MVC configuration, implementation and writing RSpec feature tests  
 |[GitHub Viewer](http://bit.ly/1TNano4)|[GitHub Viewer on GitHub](http://bit.ly/1Q3oTkK) | User profile search tool built with AngularJS utilising GitHub API | AngularJS, GitHub API, Protractor, Karma, Sinatra, CSS | Contributions across the complete stack
 |[Rock, Paper, Scissors](http://bit.ly/23pzDqk)|[RPS on GitHub](http://bit.ly/1Wo1AcN) | Traditional or extended rules (Spock, Lizard) with multiplayer options | Ruby, Sinatra, RSpec, Capybara | Personal project
+  
+  
 
 #### Online Poker - Cash Games Specialist (2009 - 2015)
 
@@ -45,7 +47,9 @@ Infrastructure Server Engineer for Schroders Global Asset Management. Providing 
 - Team representative for ITIL problem and change management issues.
 
 Previous roles on the CSC graduate scheme include Server Administrator for Department of Health and Technical Project Lead for Royal Mail Group, National Grid Transco and Bombardier Transportation.
-
+  
+  
+    
 ## Education
 
 #### Makers Academy - Ronin (Dec 2015 - Apr 2016)
