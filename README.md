@@ -1,27 +1,19 @@
-## Godfrey Got-Wai Chiu | gotwai@gmail.com
-[GitHub](https://github.com/ggwc82) | [LinkedIn](https://uk.linkedin.com/in/godfreychiu) | [Blog](http://ggwc82.github.io/)
+## Godfrey Got-Wai Chiu
+[GitHub](https://github.com/ggwc82) | [E-mail](gotwai@gmail.com) | [Mobile](07939976723)
 
-'A white belt wearing junior software developer whose love for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to the Software Craftsmanship manifesto, as well as all things related to Agile and Extreme programming. I was fortunate to be selected to video blog my coding journey which you can view at [Ronin by Makers Academy - Youtube](https://www.youtube.com/playlist?list=PLc4BYny7PXeQLLdl_meucEyKl8K9sI0SV).
+'A white belt wearing junior software developer whose love for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to the Software Craftsmanship manifesto, as well as all things related to Agile and Extreme programming. I was fortunate to be selected to video blog my coding journey which you can view at [Ronin by Makers Academy - Youtube](http://bit.ly/1qKGkCf).
 
 ## Skills
 
 #### Web Development (2015 - present)
 
-Having just graduated from Europe's top coding bootcamp, I believe I'm ready for the next stage of my journey, to apply my newly gained skills in a healthy and productive work environment. Below are just a handful of the many awesome projects I've been working on during my time as a Ronin student at [Makers Academy](http://www.makersacademy.com/employers/):
+Having just graduated from Europe's top coding bootcamp, I believe I'm ready for the next stage of my journey, to apply my newly gained skills in a healthy and productive work environment. Below are just a handful of the many awesome projects I've been working on during my time as a Ronin student at [Makers Academy](http://bit.ly/1Mq87S1):
 
-| Link: | Description: | Technology Stack: |
-|---|---|---|
-|[Roadtripper](https://github.com/ggwc82/road_tripper) | Makers Academy final project - A responsive web application for users to share their road trip experiences | Rails, JavaScript, jQuery, GoogleMaps API, AWS, Heroku, RSpec, Capybara |
-|[Github_clone](https://github.com/ggwc82/github_clone) | A user profile search tool built in AngularJS with JSON calls to GitHub API | AngularJS, GitHub API, Heroku, Protractor, Karma, Sinatra |
-|[Rock-Paper-Scissors](https://github.com/ggwc82/rps-challenge) | Traditional or extended rules (Spock, Lizard), with multiplayer...take your pick! | Ruby, Sinatra, RSpec, Capybara |
-
-#### Infrastructure Service Management (May 2006 - May 2008)
-
-Technical Service Manager for a Tier One Investment Bank, handling Equities, Fixed Income, Derivatives and lower order business. Responsible for the day to day running of operations and reporting of these businesses to local and global management.
-
-- Responsible for driving efficiency improvements through optimising and documenting workflow processes for datacenter access, vendor RMA, client project requests and change management practices
-- Implemented OTRS helpdesk system to improve tracking of issues and incidents, and provisioning of statistics for monthly reporting in accordance with client SLAs
-- Managed several high impacting incidents including providing on-call support, following through to resolution with Root Cause Analysis
+|Live Demo: | GitHub Repo: | Description: | Technology Stack: | Main Contributions: |
+|---|---|---|---|---|
+|[Roadtripper](http://bit.ly/1S1vPB3)|[Roadtripper on GitHub](http://bit.ly/1StXBW5) | Final project - A responsive web application for users to share their road trip experiences | Rails, JavaScript, jQuery, BootStrap, GoogleMaps API, AWS, RSpec, Capybara | Rails MVC configuration, implementation and writing RSpec feature tests  
+|[GitHub Viewer](http://bit.ly/1TNano4)|[GitHub Viewer on GitHub](http://bit.ly/1Q3oTkK) | User profile search tool built with AngularJS utilising GitHub API | AngularJS, GitHub API, Protractor, Karma, Sinatra, CSS | Contributions across the complete stack
+|[Rock, Paper, Scissors](http://bit.ly/23pzDqk)|[RPS on GitHub](http://bit.ly/1Wo1AcN) | Traditional or extended rules (Spock, Lizard) with multiplayer options | Ruby, Sinatra, RSpec, Capybara | Personal project
 
 #### Online Poker - Cash Games Specialist (2009 - 2015)
 
@@ -31,12 +23,34 @@ Preferring to fly under the radar, I forged a lucrative career by playing up to 
 - Five consecutive years as a SuperNova Elite, the highest VIP tier on PokerStars.com
 - Inducted into the PokerStars VIP Club Hall of Fame 
 
+## Experience
+
+**Computer Sciences Corporation, CSC** (May 2006 - May 2008)    
+*Technical Service Manager - e-Hub JP Morgan Chase*
+
+Technical Service Manager for a Tier One Investment Bank, handling Equities, Fixed Income, Derivatives and lower order business. Responsible for the day to day running of operations and reporting of these businesses to local and global management.
+
+- Responsible for driving efficiency improvements through optimising and documenting workflow processes for datacenter access, vendor RMA, client project requests and change management practices
+- Implemented OTRS helpdesk system to improve tracking of issues and incidents, and provisioning of statistics for monthly reporting in accordance with client SLAs
+- Managed several high impacting incidents including providing on-call support, following through to resolution with Root Cause Analysis
+
+**Computer Sciences Corporation, CSC** (Sept 2004 - May 2006)   
+*Infrastructure Server Engineer/Technical Project Lead*
+
+Infrastructure Server Engineer for Schroders Global Asset Management. Providing 3rd line support for Windows and Citrix server environments, including mission critical systems and financial applications.
+
+- Resolving break/fix problem tickets working directly with both the customer and internal support/development teams
+- Active participation in disaster recovery testing, server refresh projects, batch scripting and deployment of monitoring software. 
+- Remote Blackberry support for all employees, including VIP level. 
+- Team representative for ITIL problem and change management issues.
+
+Previous roles on the CSC graduate scheme include Server Administrator for Department of Health and Technical Project Lead for Royal Mail Group, National Grid Transco and Bombardier Transportation.
+
 ## Education
 
 #### Makers Academy - Ronin (Dec 2015 - Apr 2016)
 
-- Produced weekly video blog for Ronin
-- Object-Orientated Programming, Test Driven Development, SOLID Principles
+- Object-Orientated Programming, Model-View-Controller, Test Driven Development, SOLID Principles
 - Software Craftsmanship and Extreme Programming
 - Agile Methodologies
 - Technologies: Ruby, Sinatra, Rails, JavaScript, jQuery, AngularJS, Git/GitHub
@@ -55,10 +69,3 @@ Preferring to fly under the radar, I forged a lucrative career by playing up to 
 - A-Levels: Mathematics (grade A), Physics (grade A), Chemistry (grade A), General Studies (grade A)
 - Bursary-assisted place for sixth-form studies (1998-2000)
 - IT Mentor to Beech House Infant School (1998-1999)
-
-## Experience
-
-**Computer Sciences Corporation, CSC** (May 2006 - May 2008)    
-*Technical Service Manager*  
-**Computer Sciences Corporation, CSC** (Sept 2004 - May 2006)   
-*Infrastructure Server Engineer/Technical Project Lead*  
